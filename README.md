@@ -1,2 +1,0 @@
-# Dan Incorporated
-welcome.
